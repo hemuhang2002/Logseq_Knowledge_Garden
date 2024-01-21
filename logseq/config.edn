@@ -416,4 +416,5 @@
  :journal? false
  :orphan-pages? false
  :excluded-pages? false}
- :ui/show-brackets? false}
+ :ui/show-brackets? false
+ :preferred-format :markdown}

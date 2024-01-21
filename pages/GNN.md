@@ -30,4 +30,5 @@
 				  ![image.png](../assets/image_1704541310068_0.png){:height 456, :width 585}
 		- 使用skip connection
 			- ![image.png](../assets/image_1704541354525_0.png){:height 456, :width 585}
-		-
+		- ![1](https://cdn.sspai.com/2021/11/17/d603dfc12369401e5d24eeff2c2ddb85.jpg){:height 184, :width 352}
+-

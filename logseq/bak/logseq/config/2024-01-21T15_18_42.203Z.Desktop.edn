@@ -20,7 +20,7 @@
  ;; Define the default journal page template.
  ;; Enter the template name between the quotes.
  :default-templates
- {:journals "每日模板"}
+ {:journals "每日模版"}
 
  ;; Set a custom date format for the journal page title.
  ;; Default value: "MMM do, yyyy"
@@ -116,7 +116,7 @@
  ;; Publish all pages within the Graph
  ;; Regardless of whether individual pages have been marked as public.
  ;; Default value: false
- ;; :publishing/all-pages-public? false
+ :publishing/all-pages-public? true
 
  ;; Define the default home page and sidebar status.
  ;; If unspecified, the journal page will be loaded on startup and the right sidebar will stay hidden.
@@ -292,7 +292,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites []
+ :favorites ["简悦稍后读 · 索引页"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -416,4 +416,5 @@
  :journal? false
  :orphan-pages? false
  :excluded-pages? false}
- :ui/show-brackets? false}
+ :ui/show-brackets? false
+ :preferred-format :markdown}
