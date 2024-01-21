@@ -1,0 +1,5 @@
+- 我本科就是生医工专业的，然后对生物医学工程领域的应用转化非常感兴趣，在传感器，假肢，再生医学，医学图像都有很多的应用。在Health Technology and Informatics专业里可以实现将转化应用于促进人体健康的目的。我自己的科研经历使我对深度学习在BME的应用尤其感兴趣，很多新的理论和方法在人体健康方面的应用总是让我觉得很贴近生活又能改变生活
+-
+- I have a background in Biomedical Engineering during my undergraduate studies, and I am particularly interested in the application and transformation of biomedical engineering approaches in various fields .  In the department of Health Technology and Informatics, it is possible to apply transformations for the purpose of promoting human health.That suits my experiences and interests.
+-
+- [[Aug 27th, 2023]]

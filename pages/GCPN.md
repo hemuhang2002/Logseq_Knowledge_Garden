@@ -1,0 +1,1 @@
+- 详细请看[1](https://blog.csdn.net/PolarisRisingWar/article/details/120357007#:~:text=4.-,Application%20of%20Deep%20Graph%20Generative%20Models,-%E6%9C%AC%E8%8A%82%E4%B8%BB%E8%A6%81)

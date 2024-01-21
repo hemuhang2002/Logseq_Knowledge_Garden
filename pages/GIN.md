@@ -1,0 +1,11 @@
+- 定义：基于信息传递的表达能力最强的GNN模型
+  $$ \text{GINConv}\left(c^{(k)}(v),\{c^{(k)}(u)\}_{u\in N(v)}\right) = \text{MLP}\left(\Phi\left((1+\epsilon) \cdot c^{(k)}(v) + \sum_{u\in N(v)} c^{(k)}(u)\right)\right) ,\epsilon是可训练的标量$$
+- 核心：
+	- 聚合函数是单摄，是element wise sum pooling函数
+	- {{embed ((659a8703-b46d-4dfd-b83f-7a7f6b8b0364))}}
+- 步骤：
+	- 初始向量分配给节点 $$c^{(0)}(v)$$，迭代更新为：$$c^{(k+1)}(v) = \text{GINConv}\left({c^{(k)}(v),{c^{(k)}(u)}_{u\in N(v)}}\right)$$
+	- 其中，$$GINConv$$相当于可微的$$color HASH$$（[[Weisfeiler-Lehman]]）函数，将不同输入映射到不同嵌入中（即单射）。经过$$K$$次迭代，得到节点 $$v$$ 的K跳邻居结构信息为 $$c^{(K)}(v)$$。
+-
+-
+-

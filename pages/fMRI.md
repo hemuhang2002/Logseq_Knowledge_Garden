@@ -1,0 +1,1 @@
+- [第7期：“如何完成一个完整的fMRI研究”_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1A34y1W7sx/?spm_id_from=333.337.search-card.all.click&vd_source=19d43a740c787dccf39bbc5751d77b0c)

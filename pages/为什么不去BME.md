@@ -1,0 +1,3 @@
+- I'm not interested in their research areas, such as radiology and laboratory medicine.
+	- the department is not so important in my idea，i think the field of research that matches me is important.
+-

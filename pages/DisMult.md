@@ -1,0 +1,3 @@
+- 定义：使用[[Bilinear Modeling]]作为计算方法，实体和关系都表示为 $\mathbb{R}^k$ 的向量。计算方法：$f_r(h, t) = \langle h, r, t \rangle = \sum_i h_i \cdot r_i \cdot t_i$
+	- 好处：
+		- 可以直觉地被视作 $\mathbf{h}\cdot\mathbf{r}$ 和 $\mathbf{t}$ 之间的余弦相似度（点积那种），即，使 $\mathbf{h}\cdot\mathbf{r}$ 和 $\mathbf{t}$ 同侧、靠近时，score 较高。

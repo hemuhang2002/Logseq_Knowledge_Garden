@@ -1,0 +1,30 @@
+- [[日记]]
+- 何牧航学习笔记
+	- [[机器学习笔记]]
+	- [[模态识别]]
+	- [[LeeDL]]
+	- [[神经科学]]
+	- [[Linux和Shell脚本]]
+	- [[线性代数]]
+	- [[概率统计]]
+	- [[力扣刷题日记]]
+- 何牧航的科研记录
+	- [[毕设进度 Kinect Tremor of the Hand]]
+	- [[博士学习]]
+	- [[图深度学习]]
+	- [[CS224W]]
+- 何牧航的阅读笔记
+	- 书单
+		- [[爱的艺术]]
+		- [[非暴力沟通]]
+	- 阅读感悟
+		- [[书籍领悟]]
+		- [[文学摘抄]]
+- 心境
+	- [[心境习惯]]
+- 临时目录
+	- [ Must-read papers on graph neural networks)](https://github.com/thunlp/GNNPapers?source=post_page-----f24d4eb2cc2b--------------------------------#survey-papers)
+	- [zjt-blog 文档](https://zjt-blog.readthedocs.io/zh/latest/%E7%94%9F%E6%B4%BB/index.html)
+	- [诸神缄默不语-个人CSDN博文目录](https://blog.csdn.net/PolarisRisingWar/article/details/116396744)
+	- [马同学 (matongxue.com)](https://www.matongxue.com/login/?url=https://www.matongxue.com/madocs/447)
+	- 豆子芝麻茶

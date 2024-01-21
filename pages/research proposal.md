@@ -1,0 +1,27 @@
+- [图神经发展进程](https://www.zhihu.com/tardis/bd/art/611251438?source_id=1001)
+- [图神经网络综述](https://zhuanlan.zhihu.com/p/75307407)
+- 婴幼儿MRI图深度学习研究
+- 相关论文在endnote里面
+	- 首先图神经网络的发展历史
+	- 其次是前额皮质与注意力、成瘾的联系
+		- 影像层面、功能层面
+			- 有一些研究表明是先是前额皮质出问题，才会导致
+				- 有预防功能：现阶段的短视频、互联网对于脑部改变的预警
+				- 治疗效果的评估
+	- [rs-fmri](https://zhuanlan.zhihu.com/p/419064971)
+	- [儿科磁共振成像机遇和挑战——中国十年来发展成果及展望 - 磁共振成像 (yiigle.com)](https://rs.yiigle.com/CN115902202210/1430799.htm)
+- 建立预警制度、分级评判制度，帮助人们意识和为注意力恢复训练治疗提供依据。
+- Establishment of an early warning system, grading and judging system to help people realize and provide a basis for attention restoration training treatment.
+	- ADHD,ASD等认知疾病
+- ### 标题
+	- 基于时空序列图神经网络在认知神经影像中的评估，简历成瘾预防与治疗效果评价的系统
+	- a system for the evaluation of addiction prevention and treatment effect based on spatio-temporal sequence graph neural network in  neuroimaging,
+- ### 摘要
+- ### 引言
+- ### 文献综述
+- ### Research gap
+- ### Research Aim
+- ### Research Method
+- ### Expected Results and Time Plan
+-
+-

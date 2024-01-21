@@ -1,0 +1,21 @@
+- [Frequent Subgraph Mining with GNNs笔记](https://blog.csdn.net/PolarisRisingWar/article/details/119107608)
+  [频繁子图挖掘笔记](https://zhang-each.github.io/2021/07/21/gml10/)
+	- 本章大纲
+		- [[子图]]和[[图的同构]]，[[motif]]以及[[随机图]]的概念
+			- 计算[[motif]]重要性的过程
+				- 其实就是一个统计概念，在给定的$G$上，和一个由 $G$生成的[[随机图]]上，计算motif出现的频率，如果motif真的重要，那么它一定再 $G$中出现的频率大于随机图
+				- 统计概率方法：
+					- [[Z-score]]
+						- Z-score为正，代表比随机图上的更显著
+					- 接下来再对所有的motif进行归一化处理，得到他们之间的相对重要性 $$SP=\frac{Z_{i}}{\sqrt{\sum_{j=1}^{n}Z_{j}^2}}$$
+		- 子图匹配问题
+			- 定义：需要判断一个给定的图是不是另一个图的子图
+			- [[Neural Subgraph Matching]]解决这个问题
+		- 频繁子图挖掘问题
+			- 问题定义：寻找最频繁的大小为k的motif
+			- 问题难点：
+			  1. 计算特定大小的motif是一个指数问题
+			  2. 计算每一个motif的在途中的个数也是一个指数问题
+			- 解决算法
+				- [[SPMiner]]
+			-

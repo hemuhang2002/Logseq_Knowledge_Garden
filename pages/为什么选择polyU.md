@@ -1,0 +1,9 @@
+- 香港理工大学的地理位置环境都很不错，然后校园氛围也非常好，我有姐姐就读于香港理工大学，校园活动和生活质量都很不错，校外住宿之类的，然后学校综合实力也是逐年上升，对于科研研发关注很多。生物医学工程系也有在深度学习在生物医学工程的应用。然后老师的研究方向我非常感兴趣，所以很向往港理工
+-
+- The Hong Kong **Polytechnic** University is known for its excellent location and environment.
+- I have a classmate who is studying at The Hong Kong Polytechnic University, and she has had a great experience in terms of campus activities and quality of life and academic research. The university provides good options for off-campus accommodation as well.
+- and i can Attending a concert is very convenient. as Hong Kong Coliseum is nearby
+- **Moreover, the university's overall strength has been increasing over the years, the qs ranking is higher and higher.** And I'm very interested in your research area. Therefore, I have a strong desire to study at The Hong Kong Polytechnic University.
+-
+-
+- # BME Research Seminar: Functionals, Neural Nets, and Beyond: Navigating Semi-Supervised Graph Learning and Implicit Neural Representations

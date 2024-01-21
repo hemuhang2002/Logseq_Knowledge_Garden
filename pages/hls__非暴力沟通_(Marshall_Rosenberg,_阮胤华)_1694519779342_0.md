@@ -1,0 +1,88 @@
+file:: [非暴力沟通_(Marshall_Rosenberg,_阮胤华)_1694519779342_0.pdf](../assets/非暴力沟通_(Marshall_Rosenberg,_阮胤华)_1694519779342_0.pdf)
+file-path:: ../assets/非暴力沟通_(Marshall_Rosenberg,_阮胤华)_1694519779342_0.pdf
+
+- 请在你说他愚蠢之前，想一想，他是个愚蠢的孩子，还是他懂的事情和你不一样？
+  ls-type:: annotation
+  hl-page:: 23
+  hl-color:: yellow
+  id:: 65005797-abd6-4f52-a9f6-490ed16eb79c
+- 如果不把事实和意见混为一谈，我们将不再困惑
+  ls-type:: annotation
+  hl-page:: 23
+  hl-color:: yellow
+  id:: 6500588a-dbd5-43c8-ab22-285e704c68b9
+- 大多数的人来说，观察他人及其行为，而不评判、指责或以其他方式进行分析，是难以做到的。
+  ls-type:: annotation
+  hl-page:: 23
+  hl-color:: yellow
+  id:: 650058a3-7bf4-4fad-be80-2f89406d63ba
+- 大多数人的感受“像军号声那样单调
+  ls-type:: annotation
+  hl-page:: 29
+  hl-color:: yellow
+  id:: 6500609e-35c2-4be2-827e-9eed53388220
+- 重要的是各种权威主张的“正确思想 ”。于是，我们被鼓励服从权威而非倾听自己。
+  ls-type:: annotation
+  hl-page:: 29
+  hl-color:: yellow
+  id:: 650060b5-a8cf-46a8-ba15-736d4050c889
+- 旦认为自己受到指责，他很可能就会觉得委屈并退缩，这样，双方的关系甚至会更加疏远。例如，如果他感到伤心 、沮丧、不作任何反应，在妻子的心目中，他就会真的象一堵墙。
+  ls-type:: annotation
+  hl-page:: 30
+  hl-color:: yellow
+  id:: 650061ed-a52f-4994-9902-d6ccb562bc8d
+- 听到不中听的话的四种选择：责备自己，指责他人，体会自己的感受和需要，体会他人的感受和需要
+  ls-type:: annotation
+  hl-page:: 33
+  hl-color:: yellow
+  id:: 65006589-584d-4cbe-b3d6-abb775c2b7bb
+- 对他人的批评实际上间接表达了我们尚未满足的需要。
+  ls-type:: annotation
+  hl-page:: 33
+  hl-color:: yellow
+  id:: 65006592-77c8-465e-8a59-661f240e68be
+- 们对自己的意愿、感受和行动负完全的责任
+  ls-type:: annotation
+  hl-page:: 33
+  hl-color:: yellow
+  id:: 6500659a-2c00-4a27-8476-c92bea76997f
+- 感受的根源在于我们自身。我们的需要和期待，以及对他人言行的看法
+  ls-type:: annotation
+  hl-page:: 33
+  hl-color:: yellow
+  id:: 650065a6-a905-4aec-8323-98a873d83b82
+- 这种调整只是为了避免内疚，而非出自对学习的热爱
+  ls-type:: annotation
+  hl-page:: 34
+  hl-color:: yellow
+  id:: 6500660a-79f4-4b28-864a-3cb638b2264f
+- 我（感到）……因为我……
+  ls-type:: annotation
+  hl-page:: 34
+  hl-color:: red
+  id:: 6500661d-915a-4725-9164-a5be53154715
+- 如果我们通过批评来提出主张，人们的反应常常是申辩或反击。反之，如果我们直接说出需要，其他人就较有可能做出积极的回应
+  ls-type:: annotation
+  hl-page:: 34
+  hl-color:: yellow
+  id:: 65006632-4370-4c3d-b3b3-c762f40ce956
+- 36年来，我一直在生你父亲的气，我认为他不在乎我的感受。我终于意识到，我从没有和他说我想要什么
+  ls-type:: annotation
+  hl-page:: 36
+  hl-color:: yellow
+  id:: 650066c5-e0c8-4bb6-b0f7-325079da7711
+- 然而，随着关系变得“严肃”，他们开始认为自己有责任让情人过得开心。于是，爱情开始沉重起来
+  ls-type:: annotation
+  hl-page:: 37
+  hl-color:: yellow
+  id:: 65006883-92ce-406c-9e0b-04ff6f43e13d
+- 们乐于互助。我们帮助他人，是出于爱，而不是出于恐惧、内疚或惭愧。那是自由而快乐的行为
+  ls-type:: annotation
+  hl-page:: 38
+  hl-color:: yellow
+  id:: 650068c7-acb8-4fc2-bcc1-c624e54bb32f
+- 非暴力沟通把需要看作是有助于生命健康成长的要素，而不是某种具体的行为
+  ls-type:: annotation
+  hl-page:: 35
+  hl-color:: yellow
+  id:: 65006e82-c2db-4e3c-ab19-86fc4dd36c40

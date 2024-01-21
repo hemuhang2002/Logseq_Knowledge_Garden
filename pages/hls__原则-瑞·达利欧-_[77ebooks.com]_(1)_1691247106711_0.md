@@ -1,0 +1,78 @@
+file:: [原则-瑞·达利欧-_[77ebooks.com]_(1)_1691247106711_0.pdf](../assets/原则-瑞·达利欧-_[77ebooks.com]_(1)_1691247106711_0.pdf)
+file-path:: ../assets/原则-瑞·达利欧-_[77ebooks.com]_(1)_1691247106711_0.pdf
+
+- 梦想+现实+决心=成功的生活
+  ls-type:: annotation
+  hl-page:: 214
+  hl-color:: yellow
+  id:: 64ce62cf-08b7-4792-992d-bbc8186e0135
+- 我逐渐明白，从生活中获取尽可能多的东西，并不只是一个要为此而工作得更辛苦的问题。这更多的是一个有效工作的问题，因为有效工作能把我的能力提升几百倍。
+  ls-type:: annotation
+  hl-page:: 215
+  hl-color:: yellow
+  id:: 64ce638e-a023-476a-ae31-925b6025a102
+- 做到头脑极度开放、极度透明
+  ls-type:: annotation
+  hl-page:: 216
+  hl-color:: yellow
+  id:: 64ce63ab-cea4-4207-961f-0523e948f236
+- 对于快速学习和有效改变而言，头脑极度开放、极度透明是价值无限的
+  ls-type:: annotation
+  hl-page:: 216
+  hl-color:: yellow
+  id:: 64ce63bc-a6c9-4408-ac8c-c9934cedb98d
+- 做到头脑极度开放能够增强这些反馈循环的效率，因为这能让你和其他人无比清晰地看到你在做什么、为什么这么做，而不会产生误解。你的头脑越开放，你就越不会自欺，其他人也就越会给你诚实的反馈。
+  ls-type:: annotation
+  hl-page:: 216
+  hl-color:: yellow
+  id:: 64ce63d1-8236-4780-bb78-60e7dc0ea7cb
+- 可信者的特征是，能不断成功地实现一些成就，而且能就如何做到这一点提供很好的解释。
+  ls-type:: annotation
+  hl-page:: 251
+  hl-color:: yellow
+  id:: 64ce63db-3433-47a6-95d6-19a762d582d9
+- 你必须开明地思考这些反馈。
+  ls-type:: annotation
+  hl-page:: 217
+  hl-color:: yellow
+  id:: 64ce63fa-9aeb-4fc2-adc0-9f0693c4efdb
+- 一开始你会难堪，但你练得越多，你就越能应付自如
+  ls-type:: annotation
+  hl-page:: 217
+  hl-color:: yellow
+  id:: 64ce654c-e6eb-4cdd-adc3-3dd3fcd10bfa
+- 这样做还会让我和其他人相互理解，与彼此不理解相比，这更有效而且更让人快乐。
+  ls-type:: annotation
+  hl-page:: 217
+  hl-color:: yellow
+  id:: 64ce655a-40dc-4046-8ec2-51ba31d401fb
+- 我指的不是每个人的内心私密，而是人们对彼此和现实的看法。
+  ls-type:: annotation
+  hl-page:: 217
+  hl-color:: yellow
+  id:: 64ce6565-0dcf-4106-8e38-66967242d5bb
+- 所以每当我面对抉择时，我的直觉都是保持透明。我以此作为行事原则，并且建议你们也这么做。
+  ls-type:: annotation
+  hl-page:: 217
+  hl-color:: yellow
+  id:: 64ce6571-10a2-4838-a79d-d88bdd31e58f
+- 只要多练习，绝大多数人会感觉这样做很有收获，很快乐，换其他做法反而不舒服。
+  ls-type:: annotation
+  hl-page:: 218
+  hl-color:: yellow
+  id:: 64ce6583-d44b-4c2c-b37e-072acb00ad89
+- 并与这方面最好的一些专家交谈
+  ls-type:: annotation
+  hl-page:: 218
+  hl-color:: yellow
+  id:: 64ce659a-ea56-4693-83c8-16dac66cdb82
+- 与动物不同，大多数人努力调和自身的情感、本能（来自人类大脑与动物相似的部分）与理性（来自人类大脑更发达的部分）。这一冲突导致人混淆了事实和自己想要的事实。
+  ls-type:: annotation
+  hl-page:: 219
+  hl-color:: yellow
+  id:: 64ce65c6-a4fc-440a-af22-4e1943bf0aa0
+- 采用自下而上的视角观察每种具体情况，我们可以看到具体情况与理论是否相符
+  ls-type:: annotation
+  hl-page:: 220
+  hl-color:: yellow
+  id:: 64ceedad-f553-4b9a-9443-a61a39725a85

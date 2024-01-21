@@ -1,0 +1,1 @@
+- 迭代式的图生成，[详情查看](https://blog.csdn.net/PolarisRisingWar/article/details/120062898#:~:text=5.-,Kronecker%20Graph%20Model,-Kronecker%20Graph%20Model)

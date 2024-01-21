@@ -1,0 +1,6 @@
+- [[Beltrami eigenfunction Data Augmentation 贝尔特拉米特征函数数据增强]]
+	- [[离散Laplace-Beltrami 算子]]
+		- 讲解：[离散Laplace-Beltrami 算子](https://blog.csdn.net/giraffe1997/article/details/124144509)
+- 文章中也用[[切夫雪比多项式]]对于三维的LB算子计算过程进行了简化
+-
+-

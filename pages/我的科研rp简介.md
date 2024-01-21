@@ -1,0 +1,27 @@
+- 目前正在阅读文献、了解相关领域的知识与发展
+	- 关注前额皮质区域，对潜在的成瘾人群进行评估，预测老年痴呆症状，也可以对于成瘾性的预防以及治疗提供评价建议。
+		- Focusing on the prefrontal cortex, conducting assessments on potential addiction populations, predicting Alzheimer's disease, and providing evaluation and recommendations for the prevention and treatment of addiction.
+	- 成瘾性与痴呆的关系是显然的，并且成瘾性会加重阿尔兹海默的症状。
+		- There is a clear relationship between addiction and dementia, and addiction can exacerbate the symptoms of Alzheimer's disease.
+	- 各类成瘾会导致前额皮质的灰质减少，而前额皮质的认知决策功能对于血氧变化敏感，可以用fmri或者监测
+		- Various types of addiction can lead to a reduction in gray matter in the prefrontal cortex. The prefrontal cortex, which is responsible for cognitive and decision-making functions, is sensitive to changes in blood oxygenation. It can be monitored using fMRI (functional magnetic resonance imaging) or fNIRS (functional near-infrared spectroscopy).
+	- 互联网成瘾导致的变化与酒精、药物滥用导致的大脑变化类似
+		- The changes caused by internet addiction are similar to the brain changes resulting from alcohol and drug abuse.
+	- 研究表明，有一些大脑前额皮质的灰质变化甚至是在成瘾之前产生的
+		- One Research indicates that there are some gray matter changes in the prefrontal cortex that may occur even before the  addiction.
+-
+-
+-
+- 我自己一直在好奇成瘾是否能够量化并且有治疗指标，和直观的早期预防
+	- 尤其是互联网成瘾这类被大家一直所说，但是总是无法量化评估
+	- fMRI和DTI这类功能和结构成像的研究，可以直接看到脑活动，或许奥秘就藏在这其中。
+	- 已经有人使用fMRI进行了成瘾和健康脑的分类，但是不够精细
+	- 通过精细的分类网络，一个是可以给出正确的评级，其次是可以分析出重要的节点从而发现新的生物标志物
+- I have always been curious about whether addiction can be quantified and have treatment indicators, as well as intuitive early prevention.
+- Especially with internet addiction, which is often mentioned but difficult to quantify and evaluate.
+- Studies using functional and structural imaging techniques such as fMRI and DTI can directly observe brain activity, and perhaps the secrets lie within them.
+- Some researchers have already used fMRI to classify addiction and healthy brains, but the classification may not be detailed enough.
+- By using a sophisticated classification network, it is possible to provide ratings and analyze important nodes in brain to discover new biomarkers.
+-
+-
+- The most challenging aspect is data collection and experiment design.

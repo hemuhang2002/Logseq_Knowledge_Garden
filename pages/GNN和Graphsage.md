@@ -1,0 +1,10 @@
+- [ Graph Neural Networks GNN Model笔记](https://blog.csdn.net/PolarisRisingWar/article/details/117626483)
+	- 本章大纲
+		- 采用深度学习的方式来生成node embedding
+			- 优点：可以接受**图节点的变化，也可以用于不同的图**，传统的节点嵌入不行
+			- 因为只要训练好了\[W和B\]，定义了聚合操作（这个不需要学习），那么每一层在聚合后，都直接使用\[W和B\]直接生成新的embedding即可
+		- 用图神经网络[[GNN]]来进行[[节点嵌入]]
+		- 使用[[GraphSAGE]]来进行节点嵌入
+		- GNN和GraphSAGE的区别在于
+			- 聚合的操作不同：GNN聚合邻居直接使用的是平均操作，GraphSAGE
+-

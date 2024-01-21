@@ -1,0 +1,16 @@
+- [[Qiu -- 附件]]
+	- ![[[Metabolism-related brain morphology accelerates aging and predicts neurodegenerative diseases and stroke: a UK Biobank study]]](../assets/s41398-023-02515-1_zh_1692079977351_0.pdf)
+	- ![Heterogeneous Graph Convolutional NeuralNetwork via Hodge-Laplacian for BrainFunctional Data](../assets/2302.09323_zh_1692090702017_0.pdf)
+	- ![Monte Carlo Ensemble Neural Network for the diagnosis of Alzheimer’s disease](../assets/1-s2.0-S0893608022004282-main_1692427431338_0.pdf)
+	- ![Spatio-temporal directed acyclic graph learning with attention mechanisms on brain functional time series and connectivity](../assets/（备份）1-s2.0-S1361841522000238-main_1692689405840_0.pdf)
+	- ![Fast mesh data augmentation via Chebyshev polynomial of spectral filtering](../assets/1-s2.0-S0893608021002215-main_1692689514847_0.pdf)
+	- ![Revisiting convolutional neural network on graphs with polynomialapproximations of Laplace–Beltrami spectral filtering](../assets/s00521-021-06006-6_1692695333394_0.pdf)
+- [[Qiu -- 论文]]
+	- [[Metabolism-related brain morphology accelerates aging and predicts neurodegenerative diseases and stroke: a UK Biobank study]]
+	- [[Heterogeneous Graph Convolutional NeuralNetwork via Hodge-Laplacian for BrainFunctional Data]]
+	- [[Monte Carlo Ensemble Neural Network for the diagnosis of Alzheimer’s disease]]
+	- [[Spatio-temporal directed acyclic graph learning with attention mechanisms on brain functional time series and connectivity]]
+	- [[Fast mesh data augmentation via Chebyshev polynomial of spectral filtering]]
+	- [[Revisiting convolutional neural network on graphs with polynomialapproximations of Laplace–Beltrami spectral filtering]]
+-
+-

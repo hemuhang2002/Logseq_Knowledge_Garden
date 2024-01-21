@@ -1,0 +1,10 @@
+- [Message Passing and Node Classification笔记](https://blog.csdn.net/PolarisRisingWar/article/details/117574604)
+	- 本章大纲
+		- 任务是：**已知图中一部分节点的标签，用图中节点之间的关系来将标签分配到所有节点上。**属于半监督学习任务。
+			- 使用[[message passing]]方法来完成这一任务。对某一节点的标签进行预测，需要其本身特征、邻居的标签和特征
+		- [[collective classification]]给所有节点同时预测标签的概率分布，基于马尔科夫假设（某一点标签仅取决于其邻居的标签）。
+		- 本节课讲如下三种collective classification的实现技术
+			- [[Relational Classification]]
+			- [[Iterative Classification]]
+			- [[Belief Propagation]]
+	-
