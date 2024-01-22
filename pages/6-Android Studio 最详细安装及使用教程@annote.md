@@ -1,0 +1,16 @@
+:PROPERTIES:
+:index: 6
+:END:
+
+- *原文* :: [Android Studio 最详细安装及使用教程](https://zhuanlan.zhihu.com/p/456126708)
+- *标签* ::  [[简悦笔记]]
+- ### 摘要
+  #+BEGIN_QUOTE
+  Android Studio是谷歌推出的一个Android集成开发工具，基于IntelliJ IDEA. 类似 Eclipse ADT，Android Studio 提供了集成的 Android 开发工具用于开发和调试。Android Studio能够在Linux、Windows、macOS上运行，…
+  #+END_QUOTE
+- ### 重点摘抄
+  SCHEDULED: <2024-01-23 Tue>
+  
+  开启bcdedit /set hypervisorlaunchtype off
+  
+  关闭bcdedit /set hypervisorlaunchtype auto
