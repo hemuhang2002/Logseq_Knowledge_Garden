@@ -25,4 +25,8 @@
 
  在 buildscript 下面还有一个与其相似的 allprojects，它里面也有一个 repositories，但却没了 dependencies。可能会有人会有疑问，为什么 repositories 还要再申明一次呢？其实这两个 repositories 所作用的地方是不相同的，buildscript 下面的是 gradle 自身构建所需要的一些依赖；而 allprojects 下方的仓库则是给项目中的其他 module 去使用的，像 app 模块或者其他你自己新建的一些模块它们所需的依赖就是到 allprojects 下面所给的仓库里去找。若你想知道你的 allprojects 中有哪几个 project，可以像下图一样点击右方的 Gradle 查看就好。
 
+ 第一个是我们上面已经讲了的，它是对应整个项目的，是作用于所有 module 的配置；而第二个就是对应其所在的模块层，上图中可以看到第二个的括号中写着【Module：app】，也就是说它是作用于 app 这个模块的，其描述了该模块的相关配置。如果你再新建一个模块，那么同样也会有一个作用于这个新模块的 build.gradle。
+
+![图片](https://pic2.zhimg.com/v2-f147a7cea3bb0747aac5704718a429b5_r.jpg){:height 456, :width 585}
+
 
