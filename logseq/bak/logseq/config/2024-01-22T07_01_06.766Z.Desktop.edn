@@ -292,7 +292,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites ["简悦稍后读 · 索引页"]
+ :favorites []
 
  ;; Set flashcards interval.
  ;; Expected value:
