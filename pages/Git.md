@@ -1,3 +1,4 @@
 - [[rebase]]命令很有用，原理是：
+  collapsed:: true
 	- {{embed ((65ae709f-d487-401d-8f9c-f27c9cb439fb))}}
 	-
