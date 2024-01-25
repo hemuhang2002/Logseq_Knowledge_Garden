@@ -1,0 +1,39 @@
+:PROPERTIES:
+:index: 10
+:END:
+
+- *原文* :: [轻松上手：使用 VSCode 调试 Python 模块级代码的完整教程 - 简书](https://www.jianshu.com/p/1d68af4dcea2)
+- *标签* ::  [[简悦笔记]]
+
+
+### 重点摘抄
+
+ 创建调试配置：在 VSCode 中打开项目文件夹，然后转到 Run 视图 (View -&gt; Run)。点击 “create a launch.json file” 链接。这将创建一个名为的配置文件，其中包含一些预定义的调试配置。此文件应存储在launch.json文件夹中。.vscode编辑：将预定义的配置替换为以下内容：launch.json
+
+ {
+    &#34;version&#34;: &#34;0.2.0&#34;,
+    &#34;configurations&#34;: [
+        {
+            &#34;name&#34;: &#34;Python: Run My Module&#34;, // 配置名称，将在调试配置下拉列表中显示
+            &#34;type&#34;: &#34;python&#34;, // 调试类型，这里是Python
+            &#34;request&#34;: &#34;launch&#34;, // 请求类型，这里选择“launch”表示启动调试
+            &#34;module&#34;: &#34;my_module&#34;, // 要执行的Python模块名称，请替换为实际的模块名称
+            &#34;cwd&#34;: &#34;${workspaceFolder}&#34;, // 当前工作目录设置为项目文件夹
+            &#34;console&#34;: &#34;integratedTerminal&#34;, // 使用VSCode的集成终端显示输出
+            &#34;args&#34;: [], // 如果需要传递命令行参数，可以在这个列表中添加
+            &#34;pythonPath&#34;: &#34;${config:python.pythonPath}&#34;, // 指定Python解释器的路径
+            &#34;env&#34;: {}, // 环境变量字典，可以在这里添加自定义环境变量
+            &#34;envFile&#34;: &#34;${workspaceFolder}/.env&#34;, // 如果需要从文件加载环境变量，可以指定.env文件的路径
+            &#34;stopOnEntry&#34;: false, // 是否在程序启动时立即暂停，以便在第一行代码之前设置断点
+            &#34;showReturnValue&#34;: true, // 是否在调试过程中显示函数的返回值
+            &#34;redirectOutput&#34;: true // 是否将程序输出重定向到调试控制台，而不是终端
+        }
+    ]
+}
+
+请注意，指定了要执行的模块。将替换为您实际要执行的模块名称。此外，&#34;module&#34;: &#34;my_module&#34;my_module&#34;cwd&#34;: &#34;${workspaceFolder}&#34;确保当前工作目录设置为项目文件夹。
+#+BEGIN_QUOTE
+📝 调试示例
+#+END_QUOTE
+
+
