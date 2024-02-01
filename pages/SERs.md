@@ -1,0 +1,10 @@
+- 存在的问题：如何衡量配准的效果？研究是只研究一类SERs和另外一类的SERs的配准即可？相同物质不同衬底的SERs之间是否存在关联？SERs是否具有很强的衬底特征，即一种SERs显著带有该衬底特色。**Roman光谱是基本！**
+- 目前的思路：
+	- 直接U-net来生成
+	- 看成encoder和decoder的任务
+		- 针对一个标准SERs，训练（当成一维数据，使用一维卷积进行特征提取和解码）一个encoder和一个decoder。encoder可以看成自监督学习任务，输入是原始的SERs（但肯定需要添加噪音等手段，直接相同输入输出很可能什么都学习不了），然后输出也是相同SERs，从而训练一个encoder和decoder。（也可以用标注过的峰作为更显著的特征来训练encoder和decoder，训练更快）
+		- 然后对于每一个SERs我们都可以得到一个encoder和decoder。也就是说每一个SERs我们都一个$encoder_{i}$可以将其映射到一个维度为$R\in d\cdot d$的特征空间
+		- 对于基底SERs而言，我们已经有了一个从特征翻译出SERs格式的decoder，只需要让moving SERs能够和fixed SERs的特征空间对齐即可。（或者把用Roman光谱作为fix spectra，因为每一个SERs本身就有特异性，如果是从一个SERs到另一个SERs，相当于要学习配准一个特异到另一个特异，而如果SERs配准到Roman，是学习如何删除特异的过程）
+		- 所以这里需要训练两个东西，一个是encoder、decoder，还有一个是从特征空间到特征空间的转换函数
+	- 当成一维数据，使用一维卷积进行特征提取和解码（分类任务）
+-
