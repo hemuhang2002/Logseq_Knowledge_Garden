@@ -1,0 +1,10 @@
+:root{
+
+--ls-main-content-max-width:1200px
+
+}
+
+.org-left {
+    font-weight: bold;
+    color: darkslategray; /* 选择你喜欢的颜色 */
+}
