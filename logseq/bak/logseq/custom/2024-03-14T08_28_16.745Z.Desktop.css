@@ -1,0 +1,14 @@
+:root{
+
+    --ls-main-content-max-width:1200px
+    
+    }
+
+.content th {
+    border-top: solid 1.5px #dfdfdf;
+    border-bottom: solid 1px var(--ls-secondary-border-color);
+    text-transform: capitalize;
+    color: #000000ef;
+    padding: 0.5em 0.5em 0.5em 0.875em;
+    text-align: center;
+}

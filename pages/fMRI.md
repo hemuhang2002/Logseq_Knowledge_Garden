@@ -1,1 +1,3 @@
-- [第7期：“如何完成一个完整的fMRI研究”_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1A34y1W7sx/?spm_id_from=333.337.search-card.all.click&vd_source=19d43a740c787dccf39bbc5751d77b0c)
+- [功能性核磁共振成像--知识点汇总 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/190264374)
+- [fMRI数据处理学习路径&资源整合（持续更新） - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/675202855)
+- [概述 — Andy's Brain Book 1.0 文档 (andysbrainbook.readthedocs.io)](https://andysbrainbook.readthedocs.io/en/latest/installation/fsl_mac_install.html#)

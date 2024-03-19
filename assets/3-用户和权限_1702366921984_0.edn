@@ -32,4 +32,4 @@
                           :page 32},
                :content {:text "掌握使用chown修改所属用户、用户组"},
                :properties {:color "yellow"}}],
- :extra {:page 32}}
+ :extra {:page 14}}
