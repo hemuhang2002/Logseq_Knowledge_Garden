@@ -12,3 +12,7 @@
     padding: 0.5em 0.5em 0.5em 0.875em;
     text-align: center;
 }
+
+.content a.external-link {
+    color: var(--rx-logseq-11);
+}
