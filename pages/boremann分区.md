@@ -7,7 +7,7 @@
 	- 额叶和顶叶的分界线：中央沟 Central sulcus
 	- 额叶和颞叶的分界线：外侧沟 Lateral sulcus
 	- 顶叶和枕叶的分界线：顶枕沟 Parieto-occipital sulcus
-- ![undefined](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Brodmann_areas_3D.png/800px-Brodmann_areas_3D.png){:height 587, :width 334}![Image mapped Brodmann Areas. Clicking on an area in the picture causes the browser to load the appropriate article.](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Gray726-Brodman.png/480px-Gray726-Brodman.png){:height 318, :width 412}![Image mapped Brodmann Areas. Clicking on an area in the picture causes the browser to load the appropriate article.](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Gray727-Brodman.png/480px-Gray727-Brodman.png){:height 291, :width 414}
+- ![undefined](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Brodmann_areas_3D.png/800px-Brodmann_areas_3D.png){:height 577, :width 334}![Image mapped Brodmann Areas. Clicking on an area in the picture causes the browser to load the appropriate article.](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Gray726-Brodman.png/480px-Gray726-Brodman.png){:height 318, :width 412}![Image mapped Brodmann Areas. Clicking on an area in the picture causes the browser to load the appropriate article.](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Gray727-Brodman.png/480px-Gray727-Brodman.png){:height 291, :width 414}![](https://i0.imaios.com/images/8/6/0/2/472068-9-chi-CN/brain-mri-brodmann-areas.jpg?auto=format%2Ccompress&caption=1&ixlib=php-3.3.1&q=75&w=1280&s=e75bd616a7884fd00018f365de48155b){:height 368, :width 688}
 - **BA3,1,2**  primary somatosensory cortex 初级躯体感觉皮层，在中央后回，位于中央沟、顶叶部分，两个脑区都有 [初级躯体感觉皮层  ](https://en.wikipedia.org/wiki/Primary_somatosensory_cortex#Brodmann_areas_3,_1_and_2)
   >"Somatosensory" 一词由两部分组成： "soma" 和 "sensory"。"Soma" 指的是神经元的细胞体，也就是神经元的主体部分。"Sensory" 意味着感觉的，与感觉相关的。
 - **B4** primary motor cortex 初级运动皮层，中央前回，位于额叶背侧，在中央沟前面，两个脑区都有 
@@ -26,7 +26,7 @@
 - **B11,12** Orbitofrontal cortex 眶额叶皮层
   "Orbito" 指的是眼眶或眶骨，它与眼睛和眼眶相关。在解剖学中，"orbito" 一词通常用来描述与眼眶有关的结构或区域。
   "Frontal" 指的是前额的，与前额叶相关。在大脑解剖学中，"frontal" 用来描述位于大脑前部的区域。
-  > ![image.png](../assets/image_1710249373103_0.png){:height 415, :width 441}
+  > ![image.png](../assets/image_1710249373103_0.png){:height 425, :width 441}
 - **B13,14** Insular cortex 岛叶皮层 深藏在哺乳动物的[侧沟](https://en.wikipedia.org/wiki/Lateral_sulcus)（将[颞叶](https://en.wikipedia.org/wiki/Temporal_lobe)与[顶](https://en.wikipedia.org/wiki/Parietal_lobe)[叶和额叶](https://en.wikipedia.org/wiki/Frontal_lobe)分开的裂缝）内
   > ![image.png](../assets/image_1710249701780_0.png){:height 385, :width 510}
 - B15 在人类中没有发现
