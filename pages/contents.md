@@ -2,7 +2,6 @@
 - [[日记]]
 - [💅 Logseq自助修改 —— CSS指导手册](https://zhuanlan.zhihu.com/p/548640615)
 - 何牧航学习笔记
-  collapsed:: true
 	- [[机器学习笔记]]
 	- [[模态识别]]
 	- [[LeeDL]]

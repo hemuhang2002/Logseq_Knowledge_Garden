@@ -1,4 +1,4 @@
-- 大脑皮层分区
+- 大脑皮层分区 [大脑皮层名字中英文对照表 ](https://www.cnblogs.com/gagag/p/13256638.html)
 	- 额叶：frontal lope
 	- 顶叶：parietal lope
 	- 枕叶：occipital lope
@@ -7,7 +7,29 @@
 	- 额叶和顶叶的分界线：中央沟 Central sulcus
 	- 额叶和颞叶的分界线：外侧沟 Lateral sulcus
 	- 顶叶和枕叶的分界线：顶枕沟 Parieto-occipital sulcus
-- ![undefined](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Brodmann_areas_3D.png/800px-Brodmann_areas_3D.png){:height 577, :width 334}![Image mapped Brodmann Areas. Clicking on an area in the picture causes the browser to load the appropriate article.](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Gray726-Brodman.png/480px-Gray726-Brodman.png){:height 318, :width 412}![Image mapped Brodmann Areas. Clicking on an area in the picture causes the browser to load the appropriate article.](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Gray727-Brodman.png/480px-Gray727-Brodman.png){:height 291, :width 414}![](https://i0.imaios.com/images/8/6/0/2/472068-9-chi-CN/brain-mri-brodmann-areas.jpg?auto=format%2Ccompress&caption=1&ixlib=php-3.3.1&q=75&w=1280&s=e75bd616a7884fd00018f365de48155b){:height 368, :width 688}
+- 回忆
+	- 区域一
+		- 10区 {{cloze prefrontal cortex}} 
+		  37区 {{cloze fusiform gyrus }} 
+		  40区 {{cloze supramaginal gyrus}} 
+		  41、42区 {{cloze primary auditory gyrus}} 
+		  46区 {{cloze dorsol prefrontal gyrus}} 
+		  47区 {{cloze inferior prefrontal gyrus}}
+	- 区域二
+		- 23 下后扣带皮层 ventral posterior cingulate cortex
+		  24 下前扣带皮层 ventral anterior cingulate cortex
+		  25 膝外皮层 subgenual cortex
+		  26 压外区 Ectosplenial area
+		  27 后内嗅皮层 prilform cortex
+		  28 腹侧后扣带皮层 posterior entorhinal cortex
+		  29 压后扣带皮层 retrosplenial cingulate cortex
+		  31 背侧后扣带皮层 dorsal posterior cingulate cortex
+		  32 背侧前扣带皮层 dorsal anterior cingulate cortex
+		  33 前扣带皮层一部分
+		  34 前嗅皮层 anterior entorhinal cortex
+		  35 旁嗅皮层 perirhinal cortex
+		  36 海马旁皮层 parahippocampal cortex
+- ![undefined](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Brodmann_areas_3D.png/800px-Brodmann_areas_3D.png){:height 577, :width 334}![Image mapped Brodmann Areas. Clicking on an area in the picture causes the browser to load the appropriate article.](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Gray726-Brodman.png/480px-Gray726-Brodman.png){:height 318, :width 412}![Image mapped Brodmann Areas. Clicking on an area in the picture causes the browser to load the appropriate article.](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Gray727-Brodman.png/480px-Gray727-Brodman.png){:height 291, :width 414}![](https://i0.imaios.com/images/8/6/0/2/472068-9-chi-CN/brain-mri-brodmann-areas.jpg?auto=format%2Ccompress&caption=1&ixlib=php-3.3.1&q=75&w=1280&s=e75bd616a7884fd00018f365de48155b){:height 773, :width 1178}![](https://pic1.zhimg.com/v2-bbab5e3a0fba512be75c4f48ed1e3264_r.jpg)
 - **BA3,1,2**  primary somatosensory cortex 初级躯体感觉皮层，在中央后回，位于中央沟、顶叶部分，两个脑区都有 [初级躯体感觉皮层  ](https://en.wikipedia.org/wiki/Primary_somatosensory_cortex#Brodmann_areas_3,_1_and_2)
   >"Somatosensory" 一词由两部分组成： "soma" 和 "sensory"。"Soma" 指的是神经元的细胞体，也就是神经元的主体部分。"Sensory" 意味着感觉的，与感觉相关的。
 - **B4** primary motor cortex 初级运动皮层，中央前回，位于额叶背侧，在中央沟前面，两个脑区都有 
