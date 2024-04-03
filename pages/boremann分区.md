@@ -1,4 +1,7 @@
-- 大脑皮层分区 [大脑皮层名字中英文对照表 ](https://www.cnblogs.com/gagag/p/13256638.html)
+类型:: 学习笔记
+领域:: 脑
+
+- 大脑皮层分区 [大脑皮层名字中英文对照表 ](https://www.cnblogs.com/gagag/p/13256638.html) #学习网址
 	- 额叶：frontal lope
 	- 顶叶：parietal lope
 	- 枕叶：occipital lope

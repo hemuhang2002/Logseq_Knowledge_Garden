@@ -1,0 +1,2 @@
+- [logseq query语法](https://qwxlea.github.io/#/page/datalog%2Fintro%20to%20datalog)  #学习网址
+- [Queries/Advanced Queries/Tutorial (mschmidtkorth.github.io)](https://mschmidtkorth.github.io/logseq-msk-docs/#/page/queries%2Fadvanced%20queries%2Ftutorial)  #学习网址

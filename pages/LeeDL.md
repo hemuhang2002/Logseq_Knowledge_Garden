@@ -1,3 +1,6 @@
+类型:: 学习笔记
+领域:: 深度学习
+
 - ![LeeDL_Tutorial_v.1.1.1.pdf](../assets/LeeDL_Tutorial_v.1.1.1_1700402602978_0.pdf)
 - [[LeeDL复习卡制作]]
 - # 书籍章节
