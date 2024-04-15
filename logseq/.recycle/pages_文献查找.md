@@ -1,5 +1,5 @@
 - **一定定位到文献具体段落 - 查找知识 - 学习论文应用**
-- TODO  zetero查看被引用，以及拉取被引文献和施引文献
+- DONE  zetero查看被引用，以及拉取被引文献和施引文献
 - 文献查找办法
 	- [怎样查全一个方向的文献](https://www.zhihu.com/question/437643499)
 		- [(connectedpapers.com)](https://www.connectedpapers.com/main/aa9635e531de729d47c9f166c388cd5ff0feeaaf/BrainGNN%3A-Interpretable-Brain-Graph-Neural-Network-for-fMRI-Analysis/graph)
@@ -18,7 +18,7 @@
 		- 蓝色 -> 反复看的背景信息
 		- 紫色 -> 值得注意的方法，一般是论文特定的，对于综述而言，是指提到的文献中的方法，对于具体的论文，是指用到的方法
 		- 绿色 -> 亟待论文结束后进行学习的相关知识、文献等
-		- 粉红色->当前文章没有搞明白的问题
+		- 橙色->当前文章没有搞明白的问题
 	- 对于每一段，应该边阅读边记录（较为详细，而不是只是提纲）在注释中，但是红色的标题内不加tag，tag应该更具体的加在具体的段中，红色的注释只是为了当前文章局部的总结，不用做全局搜索
 -
 -

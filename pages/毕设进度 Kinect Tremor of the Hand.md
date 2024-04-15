@@ -110,7 +110,8 @@
 	- DONE 对于手指数据集，制作了之后进行测试即可，说明了不可用性即可。
 	-
 	-
-	-
+	- [使用有监督对比学习对CIFAR10进行分类，达到0.9546 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/665802511) #学习网址
+	- [NIPS20 - 将对比学习用于监督学习任务《Supervised Contrastive Learning》_supervised contrastive learning 代码mask-CSDN博客](https://blog.csdn.net/qq_36560894/article/details/120799699) #学习网址
 	-
 -
 -

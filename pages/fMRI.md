@@ -1,7 +1,7 @@
 - 学习资源集锦
 	- 教程：
-		- [fMRI处理教程](https://andysbrainbook.readthedocs.io/en/latest/FunctionalConnectivity/CONN_ShortCourse/CONN_00_History.html) 
-		  Andi教科书，里面有丰富的内容 #学习网址 #神经科学
+		- [fMRI处理教程](https://andysbrainbook.readthedocs.io/en/latest/FunctionalConnectivity/CONN_ShortCourse/CONN_00_History.html)  #学习网址 #神经科学
+		  Andi教科书，里面有丰富的内容
 		- [imaios.com](https://www.imaios.com/cn/e-anatomy/3/mri) #学习网址 #神经科学
 			- 非常厉害的网站，无比厉害的图像集合，以及课程
 		- [NeualMatch提供的计算神经科学教程](https://deeplearning.neuromatch.io/tutorials/intro.html)

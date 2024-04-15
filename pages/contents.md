@@ -14,10 +14,9 @@
 	- [[论文阅读]]
 	- [[毕设进度 Kinect Tremor of the Hand]]
 	- [[博士学习]]
-	- [[文献查找]]
 - 何牧航的阅读笔记
-  collapsed:: true
 	- 书单 [网址](https://github.com/HarborLibrary/Psychology/blob/master/%E5%9F%83%E5%88%A9%E5%A5%A5%E7%89%B9%C2%B7%E9%98%BF%E4%BC%A6%E6%A3%AE%EF%BC%9A%E7%A4%BE%E4%BC%9A%E6%80%A7%E5%8A%A8%E7%89%A9.pdf)
+	  collapsed:: true
 		- [[爱的艺术]]
 		- [[非暴力沟通]]
 		- [[被讨厌的勇气]]
@@ -26,9 +25,11 @@
 		- [[社会性动物]]
 		- 《欲罢不能：刷屏时代如何摆脱行为上瘾》
 	- 视频
+	  collapsed:: true
 		- [[两性]]
 		- [[阅读]]
 	- 阅读感悟
+	  collapsed:: true
 		- [[书籍领悟]]
 		- [[文学摘抄]]
 - 心境
