@@ -31,8 +31,10 @@
 		- [[书籍领悟]]
 		- [[文学摘抄]]
 - 心境
+  collapsed:: true
 	- [[心境习惯]]
 - 临时目录
+  collapsed:: true
 	- [zjt-blog 文档](https://zjt-blog.readthedocs.io/zh/latest/%E7%94%9F%E6%B4%BB/index.html)
 	- [马同学 (matongxue.com)](https://www.matongxue.com/login/?url=https://www.matongxue.com/madocs/447)
 	- 豆子芝麻茶
