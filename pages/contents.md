@@ -1,5 +1,6 @@
 - [[心事]]
 - [[日记]]
+- [[习惯改变清单]]
 - [💅 Logseq自助修改 —— CSS指导手册](https://zhuanlan.zhihu.com/p/548640615)
 - 何牧航学习笔记
   collapsed:: true
@@ -32,7 +33,6 @@
 		- [[书籍领悟]]
 		- [[文学摘抄]]
 - 心境
-  collapsed:: true
 	- [[心境习惯]]
 - 临时目录
   collapsed:: true
